@@ -1,0 +1,21 @@
+.create_post {
+  text-align: center;
+}
+
+.create_post h2 {
+  font-size: 2.2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.create_post p {
+  font-size: 1.2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  color: #3c3a3a;
+}
+
+/* .create_post .form_group {
+  margin-top: 1em;
+  margin-bottom: 1em;
+} */
